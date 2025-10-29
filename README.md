@@ -43,3 +43,42 @@ Example: Placing a search bar prominently at the top of a booking site allows us
 
 Functionality defines the interactive components of a wireframe — such as buttons, forms, sliders, or pop-ups — that demonstrate how users will engage with the system.
 Example: A “Book Now” button or a date-selection calendar in a wireframe illustrates how users initiate the reservation process, highlighting the app’s core functionality.
+
+Types of Wireframes
+
+Wireframes can vary in detail and complexity depending on the stage of the design process. The two main types are Low-Fidelity and High-Fidelity wireframes. Each serves a unique purpose and is used at different points in product development.
+
+1. Low-Fidelity Wireframes
+
+Definition:
+Low-fidelity (lo-fi) wireframes are basic sketches or outlines that focus on layout, structure, and functionality without including design details such as colors, fonts, or images. They are usually drawn on paper or created using simple digital tools like Balsamiq or Figma’s wireframe templates.
+
+Purpose and Use:
+
+Used in the early stages of the design process to explore ideas quickly.
+
+Helps teams discuss and refine the layout, user flow, and content hierarchy.
+
+Ideal for brainstorming sessions and obtaining initial feedback from stakeholders.
+
+Example:
+A hand-drawn sketch showing a homepage with a placeholder for a header, search bar, content area, and footer — no styling, just boxes and labels.
+
+2. High-Fidelity Wireframes
+
+Definition:
+High-fidelity (hi-fi) wireframes are more detailed and closely resemble the final design. They include precise spacing, typography, button styles, and even real or placeholder content. These are often created using advanced design tools such as Figma, Adobe XD, or Sketch.
+
+Purpose and Use:
+
+Used in the later stages of the design process, after layout and structure are finalized.
+
+Helps designers and developers visualize how the final interface will look and behave.
+
+Ideal for usability testing and presenting polished concepts to clients or stakeholders.
+
+Example:
+A detailed digital wireframe of a booking page showing actual text, icons, buttons, and interactive components — visually close to the final product design.
+
+What wireframe type the figma design is.
+The wireframe is a High-fidelity wireframe. This is because, the design looks completed and developers can know exactly how the app will look and feel like after it's development
