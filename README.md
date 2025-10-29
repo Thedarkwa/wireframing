@@ -82,3 +82,37 @@ A detailed digital wireframe of a booking page showing actual text, icons, butto
 
 What wireframe type the figma design is.
 The wireframe is a High-fidelity wireframe. This is because, the design looks completed and developers can know exactly how the app will look and feel like after it's development
+
+Popular Wireframing Tools
+
+Designers use various tools to create wireframes efficiently, ranging from simple sketching apps to advanced prototyping platforms. These tools help visualize ideas, test user flows, and collaborate with team members in real time. Below are some of the most popular wireframing tools used in the design industry:
+
+Figma
+
+Adobe XD
+
+Sketch
+
+Balsamiq
+
+Lucidchart
+
+Figma (Recommended Tool)
+
+Overview:
+Figma is a cloud-based design and prototyping tool widely used for creating wireframes, user interfaces, and interactive prototypes. It allows multiple team members to collaborate on a single design file in real time, making it an excellent choice for both individuals and large teams.
+
+Key Features:
+
+Real-time Collaboration: Multiple users can work simultaneously on the same project, view changes instantly, and leave comments directly on the design.
+
+Vector-based Design: Figma supports scalable vector graphics, ensuring designs remain crisp and precise at any resolution.
+
+Pre-built Components and Templates: Designers can reuse UI elements, speeding up the wireframing process.
+
+Prototyping Capabilities: Easily connect frames to simulate navigation flows and user interactions.
+
+Cross-platform Accessibility: Runs directly in the browser or as a desktop app, making it accessible on Windows, macOS, and Linux.
+
+Why Figma is Useful for Wireframing:
+Figma simplifies the wireframing process by combining design, prototyping, and collaboration into a single platform. Its intuitive interface allows quick sketching of low-fidelity wireframes and easy refinement into high-fidelity designs. Teams can share designs instantly, gather feedback, and iterate faster — all without worrying about version conflicts or file transfers
